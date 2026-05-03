@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет, я Георгий (geocut) 👋
+### UI/UX Designer & Frontend Developer
 
-<!--
-**geocut/geocut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Обо мне:
+- 🎨 Профессиональный графический дизайнер.
+- 💻 Frontend-разработчик.
+- 🎯 Моя цель: объединить эстетику дизайна и мощь технологий.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий:
+
+**Design & Graphics:**
+![Figma](https://shields.io)
+![Photoshop](https://shields.io)
+![Illustrator](https://shields.io)
+![Premiere](https://shields.io)
+![3dsMax](https://shields.io)
+
+**Web Development:**
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JS](https://shields.io)
+
+---
+
+### 📫 Связь со мной:
+- **Telegram**: @Recut_arcee
+- **Email**: ggg5188320@gmail.com
