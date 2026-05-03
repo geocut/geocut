@@ -10,16 +10,16 @@
 ### 🛠 Мой стек технологий:
 
 **Design & Graphics:**
-- [![Figma](https://shields.io)](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- ![Photoshop](https://shields.io)
-- ![Illustrator](https://shields.io)
-- ![Premiere](https://shields.io)
-- ![3dsMax](https://shields.io)
+- <img src="https://skillicons.dev" height="20"> **Figma**
+- <img src="https://skillicons.dev" height="20"> **Photoshop**
+- <img src="https://skillicons.dev" height="20"> **Illustrator**
+- <img src="https://skillicons.dev" height="20"> **Premiere**
+- <img src="https://skillicons.dev" height="20"> **3dsMax**
 
 **Web Development:**
-- ![HTML5](https://shields.io)
-- ![CSS3](https://shields.io)
-- ![JavaScript](https://shields.io)
+- <img src="https://skillicons.dev" height="20"> **HTML5**
+- <img src="https://skillicons.dev" height="20"> **CSS3**
+- <img src="https://skillicons.dev" height="20"> **JavaScript**
 
 ---
 
