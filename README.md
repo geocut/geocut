@@ -10,7 +10,7 @@
 ### 🛠 Мой стек технологий:
 
 **Design & Graphics:**
-- ![Figma](https://shields.io)
+- [![Figma](https://shields.io)](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - ![Photoshop](https://shields.io)
 - ![Illustrator](https://shields.io)
 - ![Premiere](https://shields.io)
