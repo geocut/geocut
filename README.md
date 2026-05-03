@@ -11,16 +11,16 @@
 ### 🛠 Мой стек технологий:
 
 **Design & Graphics:**
-![Figma](https://shields.io)
-![Photoshop](https://shields.io)
-![Illustrator](https://shields.io)
-![Premiere](https://shields.io)
-![3dsMax](https://shields.io)
+- ![Figma](https://shields.io)
+- ![Photoshop](https://shields.io)
+- ![Illustrator](https://shields.io)
+- ![Premiere](https://shields.io)
+- ![3dsMax](https://shields.io)
 
 **Web Development:**
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JS](https://shields.io)
+- ![HTML5](https://shields.io)
+- ![CSS3](https://shields.io)
+- ![JavaScript](https://shields.io)
 
 ---
 
